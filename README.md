@@ -2,7 +2,7 @@
 
 Collection of self-scraped proxies.
 
-📦 Total: 38,300+ entries
+📦 Total: 193,200+ entries
 🌍 Source: Public scraping
 ⚠️ Status: Not validated
 
