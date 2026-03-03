@@ -7,3 +7,5 @@ Collection of self-scraped proxies.
 ⚠️ Status: Not validated
 
 🌍 Source: Public scraping
+
+(DONT FORGET TO LEAVE A STAR ⭐)
