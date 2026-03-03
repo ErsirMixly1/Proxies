@@ -1,3 +1,9 @@
-# Proxy-List
-Self-Grabbed Proxies, dont get your hopes up. These arent checked 
-29900+ PROXIES
+🌐 Proxy-List
+
+Collection of self-scraped proxies.
+
+📦 Total: 29,900+ entries
+
+⚠️ Status: Not validated
+
+🌍 Source: Public scraping
